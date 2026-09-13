@@ -1,0 +1,18 @@
+DRT SCREEN CREATOR 1.2.1
+========================
+
+1. Extrayez entièrement ce dossier sur votre ordinateur.
+2. Lancez DRT-Screen-Creator.exe.
+3. Définissez la zone fixe, le dossier et le nom des captures.
+4. Choisissez deux raccourcis différents :
+   - Zone prédéfinie : capture immédiate de la zone mémorisée.
+   - Capture libre : tracez une zone temporaire, ajustez ses bords si nécessaire,
+     puis cliquez une fois à l’intérieur. Entrée permet aussi de valider.
+5. Cliquez sur « Armer la capture ».
+
+Les deux modes partagent la même numérotation des fichiers.
+Échap annule une capture libre sans créer de fichier.
+Le son de capture personnalisé confirme chaque image enregistrée.
+
+L’application fonctionne localement et n’envoie aucune image sur Internet.
+Python n’est pas nécessaire.

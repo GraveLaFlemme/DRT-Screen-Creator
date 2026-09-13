@@ -1,0 +1,16 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+tests/
+scripts/render_ui_smoke.py
+build/
+dist/
+release/
+artifacts/
+*.spec.local
+Thumbs.db
+Desktop.ini
